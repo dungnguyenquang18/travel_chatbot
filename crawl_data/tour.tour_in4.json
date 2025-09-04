@@ -1,0 +1,684 @@
+[{
+  "_id": {
+    "$oid": "68b79bce67b0809ff5d9ca16"
+  },
+  "tên tour": "Miền Tây – Mỹ Tho – Cồn Thới Sơn – Bến Tre – Cần Thơ – Chợ Nổi Cái Răng – Mỹ Khánh (Tặng bữa ăn tối trên du thuyền Cần Thơ)",
+  "lịch trình": [
+    "Ngày 1: TP.Hồ Chí Minh – Mỹ Tho – Cồn Thới Sơn – Bến Tre – Cần Thơ",
+    "Ngày 2: Cần Thơ – Chợ Nổi Cái Răng – Mỹ Khánh – TP.Hồ Chí Minh "
+  ],
+  "giá": "1.990.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79bed67b0809ff5d9ca18"
+  },
+  "tên tour": "Miền Tây: Châu Đốc - Núi Cấm - Rừng Tràm Trà Sư - Hà Tiên - Rạch Giá - Cần Thơ - Trải Nghiệm Tuyến Cao Tốc Mới Nhất Của Miền Tây",
+  "lịch trình": [
+    "Ngày 1: Tp.HCM - Tri Tôn - Thất Sơn Huyền Bí - Núi Cấm - Châu Đốc - Miếu Bà Chúa Xứ",
+    "Ngày 2: Châu Đốc - Rừng Tràm Trà Sư - Hà Tiên - Mũi Nai ",
+    "Ngày 3: Hà Tiên - Rạch Giá - Cần Thơ ",
+    "Ngày 4: Cần Thơ - Chợ Nổi Cái Răng - Tp.Hcm "
+  ],
+  "giá": "4.690.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79bf67da5966ff3781dd8"
+  },
+  "tên tour": "Osaka - Kyoto - Núi Phú Sĩ - Tokyo",
+  "lịch trình": [
+    "Ngày 1: HÀ NỘI – OSAKA - SHOPPING\t",
+    "Ngày 2: OSAKA – KYOTO – NAGOYA                                               ",
+    "Ngày 3: NAGOYA - NÚI PHÚ SĨ \t",
+    "Ngày 4: NÚI PHÚ SĨ – TOKYO\t",
+    "Ngày 5: TOKYO - NARITASAN – HÀ NỘI\t "
+  ],
+  "giá": "27.900.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79c0c67b0809ff5d9ca1a"
+  },
+  "tên tour": "Đà Lạt - Muôn Ngàn Trải Nghiệm: Thác Bobla - Dapa Hill - Thung Lũng Tình Yêu - Chinh Phục Cầu Kính Ngàn Thông 7D",
+  "lịch trình": [
+    "Ngày 1: TP. Hồ Chí Minh - Đà Lạt",
+    "Ngày 2: Thung Lũng Tình Yêu - Chinh Phục Cầu Kính Ngàn Thông 7D",
+    "Ngày 3: Đà Lạt - Dapa Hill - TP. Hồ Chí Minh"
+  ],
+  "giá": "2.790.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79c167da5966ff3781dda"
+  },
+  "tên tour": "Singapore - Malaysia",
+  "lịch trình": [
+    "Ngày 1: HÀ NỘI – SINGAPORE                                                                               ",
+    "Ngày 2: SINGAPORE – MALACCA                                                                               ",
+    "Ngày 3: MALACCA – KUALA LUMPUR\t                                                             ",
+    "Ngày 4: KUALA LUMPUR – CAO NGUYÊN GENTING",
+    "Ngày 5: KUALA LUMPUR – HÀ NỘI                                               "
+  ],
+  "giá": "13.490.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79c2b67b0809ff5d9ca1c"
+  },
+  "tên tour": "Khám Phá thành phố Hồ Chí Minh: Bưu Điện - Nhà Thờ Đức Bà - Dinh Độc Lập - Trải nghiệm Xe Bus 2 Tầng - Saigon Waterbus - Thưởng thức buổi tối trên du thuyền",
+  "lịch trình": [
+    "Ngày 1: Trải nghiệm Bus 2 tầng khám phá thành phố Hồ Chí Minh – Chợ Lớn - Chiêm ngưỡng nấc thiên đường tại Landmark 81 – Ăn tối trên du thuyền sông Sài Gòn",
+    "Ngày 2: Trải Nghiệm Water Bus – Thưởng Thức ẩm thực \"Đặc sản Trần Đà Nẵng\""
+  ],
+  "giá": "4.790.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79c347da5966ff3781ddc"
+  },
+  "tên tour": "Thái Lan: Bangkok - Pattaya (Bảo tàng tranh 3D, Chùa Phật Lớn, Lâu đài Castello Di Bellagio Pattaya, thưởng thức Buffet trưa tại khách sạn Centara Bangkok, tặng món Sườn Cay Thái Lan)",
+  "lịch trình": [
+    "Ngày 1: Tp. Hồ Chí Minh – Bangkok – Icon Siam",
+    "Ngày 2: Bangkok – Pattaya – Bảo Tàng 3d Art Paradise – Chùa Phật Lớn",
+    "Ngày 3: Castello Di Bellagio – Trân Bảo Phật Sơn – Phố Đi Bộ Pattaya",
+    "Ngày 4: Đền Phật 4 Mặt – Buffet Trưa Tại Centara - Tự Do Mua Sắm Tại Bangkok",
+    "Ngày 5: Bangkok – Wat Yannawa - Tp. Hồ Chí Minh"
+  ],
+  "giá": "5.990.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79c4b67b0809ff5d9ca1e"
+  },
+  "tên tour": "Miền Tây: Châu Đốc - Núi Cấm - Rừng Tràm Trà Sư - Cần Thơ - Chợ Nổi Cái Răng - Trải Nghiệm Tuyến Cao Tốc Mới Nhất Của Miền Tây",
+  "lịch trình": [
+    "Ngày 1: Tp.Hcm - Tri Tôn - Thất Sơn Huyền Bí - Núi Cấm - Châu Đốc - Miếu Bà Chúa Xứ ",
+    "Ngày 2: Châu Đốc - Rừng Tràm Trà Sư - Cần Thơ ",
+    "Ngày 3: Cần Thơ - Chợ Nổi Cái Răng - Làng Du Lịch Mỹ Khánh - Tp.Hồ Chí Minh"
+  ],
+  "giá": "2.790.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79c537da5966ff3781dde"
+  },
+  "tên tour": "Malaysia - Singapore (02 đêm tại Singapore, Tặng vé tham quan Floral Fantasy Dome )",
+  "lịch trình": [
+    "Ngày 1: Tp. Hồ Chí Minh - Kuala Lumpur - City tour",
+    "Ngày 2: Kuala Lumpur - Cao nguyên Genting",
+    "Ngày 3: Kuala Lumpur - Malacca",
+    "Ngày 4: Malacca - Singapore",
+    "Ngày 5: Singapore Ctiy tour",
+    "Ngày 6: Singapore - Tp. Hồ Chí Minh"
+  ],
+  "giá": "14.990.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79c6967b0809ff5d9ca20"
+  },
+  "tên tour": "Khám phá Tây Bắc| Hòa Bình - Mộc Châu - Điện Biên - Lai Châu - Sapa - Fansipan - Yên Bái - Hà Nội | Tặng vé tàu hỏa leo núi Mường Hoa",
+  "lịch trình": [
+    "Ngày 1: Tphcm - Hà Nội - Bảo tàng Lịch sử Quân sự - Đèo Thung Khe - Mộc Châu\t",
+    "Ngày 2: Mộc Châu - Tp. Sơn La - Điện Biên",
+    "Ngày 3: Điện Biên - Lai Châu",
+    "Ngày 4: Lai Châu - Sapa",
+    "Ngày 5: Sapa - Mù Cang Chải - Nghĩa Lộ",
+    "Ngày 6: Nghĩa Lộ - Yên Bái - Hà Nội",
+    "Ngày 7: Hà Nội - Tp. HCM"
+  ],
+  "giá": "10.990.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79c737da5966ff3781de0"
+  },
+  "tên tour": "Dubai - Abudhabi - Desert Safari ",
+  "lịch trình": [
+    "Ngày 1: Hà Nội - Dubai – Đảo Cọ Palm Jumeirah            ",
+    "Ngày 2: Dubai – Khám Phá Sa Mạc Safari                                ",
+    "Ngày 3: Tham Quan Thủ Đô Abu Dhabi\t               ",
+    "Ngày 4: Bảo Tàng Tương Lai - Dubai Mall – Hà Nội                       ",
+    "Ngày 5: Hà Nội"
+  ],
+  "giá": "27.990.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79c8867b0809ff5d9ca22"
+  },
+  "tên tour": "Vinh - KDT Kim Liên - Đồi Chè Thanh Chương",
+  "lịch trình": [
+    "Ngày 1: Vinh - KDT Kim Liên - Đồi Chè Thanh Chương  "
+  ],
+  "giá": "750.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79c927da5966ff3781de2"
+  },
+  "tên tour": "Nhật Bản: Tokyo – Núi Phú Sĩ – Oshino Hakkai – Kyoto – Osaka (4 đêm khách sạn) | Trải nghiệm shinkansen & xem show Geisha",
+  "lịch trình": [
+    "Ngày 1: Tphcm – Narita - Tokyo",
+    "Ngày 2: Tokyo ",
+    "Ngày 3: Tokyo – Núi Phú Sĩ – Làng cổ Oshino Hakkai",
+    "Ngày 4: Kawaguchiko/Yamanashi - Nagoya ",
+    "Ngày 5: Nagoya – Kyoto – Osaka - Kansai",
+    "Ngày 6: Kansai– Tp. Hồ Chí Minh"
+  ],
+  "giá": "27.990.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79c9c7da5966ff3781de4"
+  },
+  "tên tour": "Thái Lan: Bangkok - Pattaya (Khánh sạn 5 sao, chùa Wat Arun, thưởng thức buffet tại BaiYoke Sky, tặng massage 60 phút, sườn cay và xôi xoài Thái Lan)",
+  "lịch trình": [
+    "Ngày 1: Đà Nẵng - Bangkok – Pattaya – Tặng Massage 60 Phút",
+    "Ngày 2: Chợ nổi 4 miền - Trân Bảo Phật Sơn - Colloseum Show",
+    "Ngày 3: Muang Boran – Icon Siam - Bangkok ",
+    "Ngày 4: Wat Yannawa - Baiyoke Sky - Tự do mua sắm",
+    "Ngày 5: Chùa Wat Arun - TP.Đà Nẵng \t\t\t\t\t                                 "
+  ],
+  "giá": "7.490.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79ca767b0809ff5d9ca24"
+  },
+  "tên tour": "Buôn Ma Thuột - Pleiku - Măng Đen: Thác Dray Nur - Cầu Treo Kon Klor - Biển Hồ Tơ Nưng - Buôn Kotam - Bảo Tàng Thế Giới Cà Phê",
+  "lịch trình": [
+    "Ngày 1: TP. Hồ Chí Minh - Buôn Ma Thuột | Số bữa ăn: 03 (sáng, trưa, chiều)",
+    "Ngày 2: Buôn Ma Thuột - Pleiku | Số bữa ăn: 03 (sáng, trưa, chiều)",
+    "Ngày 3: Pleiku - Măng Đen | Số bữa ăn: 03 (sáng, trưa, chiều)",
+    "Ngày 4: Măng Đen - Pleiku - Buôn Ma Thuột | Số bữa ăn: 03 (sáng, trưa, chiều)",
+    "Ngày 5: Buôn Ma Thuột - TP. Hồ Chí Minh | Số bữa ăn: 02 (sáng, trưa)"
+  ],
+  "giá": "4.990.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79cbb7da5966ff3781de6"
+  },
+  "tên tour": "Trung Quốc: Thượng Hải - Chu Gia Giác - Hàng Châu - Tô Châu - Bắc Kinh",
+  "lịch trình": [
+    "Ngày 1: HÀ NỘI – THƯỢNG HẢI                                                                                ",
+    "Ngày 2: THƯỢNG HẢI – HÀNG CHÂU\t",
+    "Ngày 3: HÀNG CHÂU - TÔ CHÂU\t",
+    "Ngày 4: TÔ CHÂU – BẮC KINH – TÀU SIÊU CAO TỐC \t",
+    "Ngày 5: BẮC KINH\t",
+    "Ngày 6: BẮC KINH                                                                                                                                                           ",
+    "Ngày 7: BẮC KINH – HÀ NỘI                                                                                        "
+  ],
+  "giá": "24.900.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79cc867b0809ff5d9ca26"
+  },
+  "tên tour": "Cần Thơ - Cà Mau - Đất Mũi - Bạc Liêu - Sóc Trăng",
+  "lịch trình": [
+    "Ngày 1: Thành phố Hồ Chí Minh - Cần Thơ - Cồn Sơn ",
+    "Ngày 2: Cần Thơ - Chợ nổi Cái Răng - Bạc Liêu - Cà Mau ",
+    "Ngày 3: Cà Mau - Đất Mũi - Bạc Liêu - Cánh đồng điện gió",
+    "Ngày 4: Bạc Liêu - Sóc Trăng - Thành phố Hồ Chí Minh "
+  ],
+  "giá": "4.790.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79cda7da5966ff3781de8"
+  },
+  "tên tour": "Singapore (Tặng vé Flower Dome, Cloud Forest và Không gian trưng bày Thế giới kỷ Jura. Tặng trải nghiệm tại khu vườn giác quan Sensory Scape)",
+  "lịch trình": [
+    "Ngày 1: Tp. Hồ Chí Minh - Singapore",
+    "Ngày 2: Singapore - Gardens by the Bay",
+    "Ngày 3: Singapore - Đảo Sentosa ",
+    "Ngày 4: Singapore - Tp. Hồ Chí Minh"
+  ],
+  "giá": "15.990.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79ce767b0809ff5d9ca28"
+  },
+  "tên tour": "Sapa - Fansipan - Yên Tử  - Hạ Long - Tràng An - Bái Đính - Hà Nội - Tặng vé tàu hỏa leo núi Mường Hoa",
+  "lịch trình": [
+    "Ngày 1: TP. HCM - Sb Nội Bài (Hà Nội) - Sapa ",
+    "Ngày 2: Sapa - Fansipan Legend - Đèo Ô Quy Hồ",
+    "Ngày 3: Sapa - Hà Nội",
+    "Ngày 4: Hà Nội - Yên Tử - Hạ Long ",
+    "Ngày 5: Hạ Long - Ninh Bình",
+    "Ngày 6: Ninh Bình - Hà Nội",
+    "Ngày 7: Hà Nội - SB Nội Bài - TP.HCM"
+  ],
+  "giá": "11.390.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79cfa7da5966ff3781dea"
+  },
+  "tên tour": "Liên tuyến Đông Tây Mỹ: New York - Philadelphia - Washington DC - Las Vegas - Grand Canyon  - San Diego - Los Angeles",
+  "lịch trình": [
+    "Ngày 1: Tp. Hồ Chí Minh ✈  New York ",
+    "Ngày 2: Khám Phá New York",
+    "Ngày 3: New York – Philadelphia – Thủ Đô Washington    ",
+    "Ngày 4: Thủ Đô Washington ✈ Las Vegas",
+    "Ngày 5: Las Vegas – Grand Canyon – Hoover Dam ",
+    "Ngày 6: Las Vegas – Los Angeles  – Quận Cam ",
+    "Ngày 7: Los Angeles – San Diego – Los Angeles  ",
+    "Ngày 8: Los Angeles – Hollywood ✈ Tp. Hồ Chí Minh ",
+    "Ngày 9: Trên Máy Bay Vượt Tuyến Đổi Ngày  ",
+    "Ngày 10: Tp.Hồ Chí Minh  "
+  ],
+  "giá": "83.990.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79d0967b0809ff5d9ca2a"
+  },
+  "tên tour": "Tây Ninh: Hành Trình Chinh Phục Nóc Nhà Nam Bộ - (Tặng Vé Tham Quan 3 Tuyến Cáp Treo Chùa Hang - Tâm An - Vân Sơn)  ",
+  "lịch trình": [
+    "Ngày 1: Thành phố Hồ Chí Minh - Tây Ninh: Sun World Ba Den Moutain - Chinh phục nóc nhà Nam Bộ - Chiêm bái tượng Phật Di Lặc - Khám phá quần thể tâm linh chùa Bà"
+  ],
+  "giá": "1.390.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79d1a7da5966ff3781dec"
+  },
+  "tên tour": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga",
+  "lịch trình": [
+    "Ngày 1: TP. HỒ CHÍ MINH – PHUKET                                      (Ăn trưa, Ăn tối)",
+    "Ngày 2: QUẦN ĐẢO PHI PHI XINH ĐẸP                        (Ăn sáng, trưa)",
+    "Ngày 3: PHUKET – VỊNH PHANG NGA                                            (Ăn sáng, trưa, tối)",
+    "Ngày 4: PHUKET – TP. HỒ CHÍ MINH            (Ăn sáng)"
+  ],
+  "giá": "10.990.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79d2767b0809ff5d9ca2c"
+  },
+  "tên tour": "Sapa - Cát Cát - Cổng trời Ô Quy Hồ - Fansipan Legend",
+  "lịch trình": [
+    "Ngày 1: Hà Nội - Lào Cai - Sapa",
+    "Ngày 2: Sapa - Fansipan Hùng Vĩ - Ô Quy Hồ",
+    "Ngày 3: Sapa - Lào Cai - Hà Nội"
+  ],
+  "giá": "2.990.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79d3b7da5966ff3781dee"
+  },
+  "tên tour": "Trung Quốc: Nghi Xương - Công viên Trương Gia Giới - Phượng Hoàng cổ trấn - Thiên Môn Sơn - Đập Tam Hiệp",
+  "lịch trình": [
+    "Ngày 1: Tp Hồ Chí Minh - Nghi Xương                                                          \t",
+    "Ngày 2: Nghi Xương – Đập thủy điện Cát Châu Bá – Trương Gia Giới",
+    "Ngày 3: Trương Gia Giới -  Phượng Hoàng Cổ Trấn",
+    "Ngày 4: Phượng Hoàng Cổ Trấn - Trương Gia Giới",
+    "Ngày 5: Trương Gia Giới – Thiên Môn Sơn - Nghi Xương",
+    "Ngày 6: Nghi Xương – Tp Hồ Chí Minh               \t                              \t    "
+  ],
+  "giá": "15.990.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79d4667b0809ff5d9ca2e"
+  },
+  "tên tour": "Đà Nẵng - Phố Cổ Hội An - Bà Nà - Cầu Vàng - Vườn Tượng Apec - Cầu Tình Yêu ",
+  "lịch trình": [
+    "Ngày 1: TP. Hồ Chí Minh - Đà Nẵng - Hội An",
+    "Ngày 2: Đà Nẵng - Khu Du Lịch Bà Nà                                                        ",
+    "Ngày 3: Đà Nẵng - TP. Hồ Chí Minh                       "
+  ],
+  "giá": "3.990.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79d5b7da5966ff3781df0"
+  },
+  "tên tour": "Đài Bắc - Đài Trung- Hoa Liên - Bảo tàng cố Cung - Thả đèn trời phố cổ Thập Phần - Du thuyền hồ Nhật Nguyệt",
+  "lịch trình": [
+    "Ngày 1: HÀ NỘI – ĐÀO VIÊN – ĐÀI TRUNG                                                                                                                                                                       ",
+    "Ngày 2: ĐÀI TRUNG – ĐÀI BẮC                             ",
+    "Ngày 3: ĐÀI BẮC – HOA LIÊN                                                                     ",
+    "Ngày 4: HOA LIÊN                                                                                     ",
+    "Ngày 5: ĐÀI BẮC – HÀ NỘI                                                                  "
+  ],
+  "giá": "13.990.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79d6667b0809ff5d9ca30"
+  },
+  "tên tour": "Khánh Hòa - Bến Du Thuyền Ana Marina - Vịnh Nha Trang - Bãi Tranh - Đảo Robinson - I Resort - Khách Sạn 4 Sao",
+  "lịch trình": [
+    "Ngày 1: Tp. Hồ Chí Minh - Cà Ná - Khánh Hòa - Bến Du Thuyền Ana Marina “Vũ Điệu Biển Khơi” ",
+    "Ngày 2: Vịnh Nha Trang - Khám Phá Thiên Đường Biển Đảo ",
+    "Ngày 3: Suối Khoáng Nóng I-Resort - Nha Trang Xưa - Tháp Bà Ponagar ",
+    "Ngày 4: Khánh Hòa - TP. Hồ Chí Minh"
+  ],
+  "giá": "3.990.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79d7d7da5966ff3781df2"
+  },
+  "tên tour": "Trương Gia Giới - Phượng Hoàng Cổ Trấn – Vườn Quốc Gia Trương Gia Giới - Thiên Tử Sơn - Hồ Bảo Phong",
+  "lịch trình": [
+    "Ngày 1: HÀ NỘI– TRƯƠNG GIA GIỚI                                                                                                                 ",
+    "Ngày 2: TRƯƠNG GIA GIỚI - PHƯỢNG HOÀNG CỔ TRẤN                                                                     ",
+    "Ngày 3: PHƯỢNG HOÀNG CỔ TRẤN - TRƯƠNG GIA GIỚI                                                                                  ",
+    "Ngày 4: TRƯƠNG GIA GIỚI – VQG TRƯƠNG GIA GIỚI  \t\t\t\t              ",
+    "Ngày 5: TRƯƠNG GIA GIỚI – HỒ BẢO PHONG                                                                                                       ",
+    "Ngày 6: TRƯƠNG GIA GIỚI – HÀ NỘI                                                                                                                   "
+  ],
+  "giá": "11.990.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79d8667b0809ff5d9ca32"
+  },
+  "tên tour": "Phú Quốc -Thiên Đường Giải Trí Vinwonders   Khu Bảo Tồn Thiên Nhiên Safari  Hòn Thơm Nature Park - Vui Chơi Thỏa Thích Tại Công Viên Nước Aquatopia",
+  "lịch trình": [
+    "Ngày 1: TP HỒ CHÍ MINH - PHÚ QUỐC - HÒN THƠM - THỊ TRẤN HOÀNG HÔN - GRAND WORLD ",
+    "Ngày 2: VUI CHƠI THỎA THÍCH TẠI CÔNG VIÊN CHỦ ĐỀ VINWONDERS PHÚ QUỐC - KHU BẢO TỒN THIÊN NHIÊN SAFARI ",
+    "Ngày 3: PHÚ QUỐC - GRAND WORLD - TP HỒ CHÍ MINH "
+  ],
+  "giá": "7.290.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79d9e7da5966ff3781df4"
+  },
+  "tên tour": "Hàn Quốc: Busan - Ngôi làng bích họa Gamcheon - Seoul -  Đảo Nami - Korean Folk Village - Thư viện Suwon Starfield | Trải nghiệm tàu cao tốc KTX ",
+  "lịch trình": [
+    "Ngày 1: TP. Hồ Chí Minh – Busan",
+    "Ngày 2: Busan -  Seoul  - Đảo Nami",
+    "Ngày 3: Seoul - Korean Folk Village – Thư viện Suwon",
+    "Ngày 4: Seoul",
+    "Ngày 5: Seoul – TP Hồ Chí Minh         "
+  ],
+  "giá": "20.990.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79da467b0809ff5d9ca34"
+  },
+  "tên tour": "Đà Nẵng - Huế - La Vang - Động Thiên Đường & Động Phong Nha - Bà Nà - Cầu Vàng - Sơn Trà - Phố Cổ Hội An - Đà Nẵng",
+  "lịch trình": [
+    "Ngày 1: TP. Hồ Chí Minh - Đà Nẵng - Huế",
+    "Ngày 2: Huế - VQG Phong Nha - Kẻ Bàng - Động Phong Nha & Thiên Đường ",
+    "Ngày 3: Đồng Hới - Thánh Địa La Vang - Đầm Lập An - Đà Nẵng - Phổ Cổ Hội An ",
+    "Ngày 4: Đà Nẵng - KDL Bà Nà - Cầu Vàng",
+    "Ngày 5: Đà Nẵng - TP. Hồ Chí Minh"
+  ],
+  "giá": "7.990.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79dbc7da5966ff3781df6"
+  },
+  "tên tour": "Bangkok - Pattaya - Bảo tàng Lighting Art - Bãi biển Jomtien - Khu du lịch Suan Thai Pattaya - Thành cổ Muang Boran – Khách sạn 5* - Bay sáng",
+  "lịch trình": [
+    "Ngày 1: HÀ NỘI – BANGKOK – PATTAYA – LIGHTING ART",
+    "Ngày 2: PATTAYA                                                                ",
+    "Ngày 3: PATTAYA – BANGKOK – THÀNH CỔ MUANG BORAN                                                                                             ",
+    "Ngày 4: BANGKOK – CHÙA THUYỀN WAT YANAWA                                                         \t",
+    "Ngày 5: BANGKOK -  HÀ NỘI\t\t                                                               "
+  ],
+  "giá": "7.990.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79dc367b0809ff5d9ca36"
+  },
+  "tên tour": "Đại Lễ Vesak 2025 Khám phá Tây Ninh vùng đất địa linh - Chinh phục đỉnh thiêng tặng vé cáp treo 3 tuyến - Tham quan khu trưng bày nghệ thuật Phật Giáo chiêm bái Xá Lợi Phật",
+  "lịch trình": [
+    "Ngày 1: Cần Thơ - Tây Ninh - Sun World Ba Den - Chinh phục nóc nhà Nam Bộ - Quần thể tâm linh chùa Bà"
+  ],
+  "giá": "1.690.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79ddc7da5966ff3781df8"
+  },
+  "tên tour": "Ấn Độ Hành Trình Đặc Biệt Tới Tam Giác Vàng Delhi - Jaipur - Agra",
+  "lịch trình": [
+    "Ngày 1: Tp. Hồ Chí Minh - Delhi",
+    "Ngày 2: Delhi - Jaipur",
+    "Ngày 3: Jaipur - Pháo đài Amber - Cung điện Thành Phố",
+    "Ngày 4: Jaipur – Giếng bậc thang Abhaneri - Fatehpur Sikri - Agra",
+    "Ngày 5: Agra - Tah Mahal - Delhi",
+    "Ngày 6: Delhi - Tp. Hồ Chí Minh",
+    "Ngày 7: Tp. Hồ Chí Minh"
+  ],
+  "giá": "20.990.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79de467b0809ff5d9ca38"
+  },
+  "tên tour": "Tinh Hoa Cực Bắc | Hà Nội – Lạng Sơn - Cao Bằng – Hà Giang ",
+  "lịch trình": [
+    "Ngày 1: Tp. Hồ Chí Minh - SB Nội Bài (Hà Nội)",
+    "Ngày 2: Hà Nội - Lạng Sơn - Cao Bằng",
+    "Ngày 3: Non nước Cao Bằng - Trùng Khánh",
+    "Ngày 4: Cao Bằng - Mèo Vạc - Đồng Văn",
+    "Ngày 5: Đồng Văn - Yên Minh - Quản Bạ - Hà Giang",
+    "Ngày 6: Hà Giang - Tuyên Quang - SB Nội Bài (Hà Nội)"
+  ],
+  "giá": "11.190.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79dfd7da5966ff3781dfa"
+  },
+  "tên tour": "Khám Phá “Đất Nước Chùa Tháp Siem Reap - Phnom Penh",
+  "lịch trình": [
+    "Ngày 1: Tp. Cần Thơ - Tịnh Biên - Siem Reap",
+    "Ngày 2: Siem Reap - Angkor - Đồi Bakheng",
+    "Ngày 3: Siem Reap - Phnom Penh",
+    "Ngày 4: Phnom Penh - Tịnh Biên - Tp. Cần Thơ"
+  ],
+  "giá": "5.990.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79e0567b0809ff5d9ca3a"
+  },
+  "tên tour": "Đền Hùng - Nghĩa Lộ - Tú Lệ - Mù Cang Chải - Sapa- Fansipan - Điện Biên - Mộc Châu",
+  "lịch trình": [
+    "Ngày 1: TP. Cần Thơ - SB Nội Bài - Yên Bái - Nghĩa Lộ",
+    "Ngày 2: Nghĩa Lộ - Mù Cang Chải - Sapa ",
+    "Ngày 3: Sapa - Fansipan - Đèo Ô Quy Hồ - Lai Châu",
+    "Ngày 4: Lai Châu – Điện Biên                               ",
+    "Ngày 5: Điện Biên - Sơn La - Mộc Châu",
+    "Ngày 6: Mộc Châu - SB Nội Bài (Hà Nội)   "
+  ],
+  "giá": "12.590.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79e2567b0809ff5d9ca3c"
+  },
+  "tên tour": "Côn Đảo - Thiên Đường của biển",
+  "lịch trình": [
+    "Ngày 1: TP. HCM - Côn Đảo Oai Hùng ",
+    "Ngày 2: Khám phá Côn Đảo “Thiên Đường Của Biển” ",
+    "Ngày 3: Côn Đảo - TP. HCM"
+  ],
+  "giá": "8.790.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79e4567b0809ff5d9ca3e"
+  },
+  "tên tour": "Côn Đảo Oai Hùng",
+  "lịch trình": [
+    "Ngày 1: Tp.Hcm - Côn Đảo Oai Hùng ",
+    "Ngày 2: Côn Đảo - TP. HCM "
+  ],
+  "giá": "6.990.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79e6667b0809ff5d9ca40"
+  },
+  "tên tour": "Tinh Hoa Cực Bắc | Hà Nội - Lạng Sơn - Cao Bằng - Hà Giang",
+  "lịch trình": [
+    "Ngày 1: Đà Nẵng - SB Nội Bài (Hà Nội)",
+    "Ngày 2: Hà Nội - Lạng Sơn - Cao Bằng: \"Chạm vào di sản\"",
+    "Ngày 3: Non nước Cao Bằng - Trùng Khánh",
+    "Ngày 4: Cao Bằng - Mèo Vạc - Đồng Văn",
+    "Ngày 5: Đồng Văn - Yên Minh - Quản Bạ - Hà Giang",
+    "Ngày 6: Hà Giang - Tuyên Quang - SB Nội Bài (Hà Nội)"
+  ],
+  "giá": "11.590.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79e8567b0809ff5d9ca42"
+  },
+  "tên tour": "Phú Quốc: Thiên đường giải trí Vinwonder - Safari World - Hòn Thơm Nature Park - Cáp Treo Vượt Biển - Công Viên Nước Aquatopia ",
+  "lịch trình": [
+    "Ngày 1: Thành phố Hồ Chí Minh - Phú Quốc - Grand World",
+    "Ngày 2: Vui chơi thoả thích tại Công viên chủ đề VinWonders Phú Quốc - Khu bảo tồn thiên nhiên Safari",
+    "Ngày 3: Phú Quốc - Thành phố Hồ Chí Minh  "
+  ],
+  "giá": "6.690.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79ea467b0809ff5d9ca44"
+  },
+  "tên tour": "Hành trình Hoa và Biển: Đà Lạt - Nha Trang",
+  "lịch trình": [
+    "Ngày 1: TP. Hồ Chí Minh - Đà Lạt",
+    "Ngày 2: Đà Lạt - Thành Phố Ngàn Hoa                                    ",
+    "Ngày 3: Đà Lạt - Khánh Hòa   ",
+    "Ngày 4: Khánh Hòa - Hòn Lao - VinWonders Nha Trang     ",
+    "Ngày 5: Khánh Hòa - Làng Chài Xưa - TP. Hồ Chí Minh                                                               "
+  ],
+  "giá": "4.790.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79ec367b0809ff5d9ca46"
+  },
+  "tên tour": "Bản Giao Hưởng Biển Rừng Phương Nam: An Giang - Cồn Én - Thiên Cấm Sơn - Rạch Giá - Cà Mau - Chinh Phục 2 Khu Vườn Quốc Gia - Bạc Liêu ‘Du Lịch Điện Gió Xứ Công Tử’ - Sóc Trăng ‘Khám Phá Ẩm Thực Khmer’",
+  "lịch trình": [
+    "Ngày 1: TP.HCM - AN GIANG - THÁNH ĐƯỜNG CÙ LAO GIÊNG - CỒN ÉN - HUYỀN ẢO NÚI SAM VỀ ĐÊM (Ăn sáng, trưa, chiều)",
+    "Ngày 2: AN GIANG - CHỢ TỊNH BIÊN - ĐẶC SẢN VÙNG BIÊN - LÂM VIÊN NÚI CẤM - RẠCH GIÁ - HOÀNG HÔN TRÊN KHU ĐÔ THỊ LẤN BIỂN (Ăn sáng, trưa, chiều)",
+    "Ngày 3: RẠCH GIÁ - ĐÌNH THẦN NGUYỄN TRUNG TRỰC - CÀ MAU - VƯỜN QUỐC GIA U MINH HẠ (Ăn sáng, trưa, chiều)",
+    "Ngày 4: ĐẾN VÙNG CỰC NAM TỔ QUỐC ‘ MỘT NGÀY LÀM NGƯỜI DÂN BẢN ĐỊA’ - BẠC LIÊU ‘DU LỊCH ĐIỆN GIÓ TỪ MẢNH ĐẤT PHÙ SA VEN BIỂN’ (Ăn sáng, trưa, chiều)",
+    "Ngày 5: BẠC LIÊU - SÓC TRĂNG - KHÁM PHÁ VĂN HÓA & ẨM THỰC KHMER - TRẢI NGHIỆM LÀM CỐM DẸP CÙNG NGHỆ NHÂN - TP.HCM  (Ăn sáng, trưa)"
+  ],
+  "giá": "5.990.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79ee167b0809ff5d9ca48"
+  },
+  "tên tour": "Hà Giang - Lũng Cú - Đồng Văn - Nơi đá nở hoa",
+  "lịch trình": [
+    "Ngày 1: Huế - Hà Nội - Tuyên Quang - Hà Giang",
+    "Ngày 2: Hà Giang - Lũng Cú - Đồng Văn",
+    "Ngày 3: Mã Pí Lèng - Mèo Vạc - Hà Giang",
+    "Ngày 4: Hà Giang - Hà Nội - Huế"
+  ],
+  "giá": "5.490.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79f0167b0809ff5d9ca4a"
+  },
+  "tên tour": "Khánh Hòa - Bến du thuyền Ana Marina - Nha Trang Xưa - Biển Nhũ Tiên - Suối khoáng nóng I-Resort - VinWonders ",
+  "lịch trình": [
+    "Ngày 1: TP. Hồ Chí Minh - Cà Ná - Khánh Hòa - Bến du thuyền Ana Marina “Vũ điệu biển khởi” ",
+    "Ngày 2: Nha Trang Xưa - Tháp Bà Ponagar - Suối khoáng nóng I-Resort - Hòn Chồng",
+    "Ngày 3: Biển Nhũ Tiên - VinWonders - Vinpearl Harbour - Làng Nhỏ",
+    "Ngày 4: Khánh Hòa - TP. Hồ Chí Minh                                        "
+  ],
+  "giá": "3.590.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79f1f67b0809ff5d9ca4c"
+  },
+  "tên tour": "Hà Giang - Lũng Cú - Cao Nguyên Đá Đồng Văn",
+  "lịch trình": [
+    "Ngày 1: Hà Nội - Tuyên Quang - Hà Giang",
+    "Ngày 2: Hà Giang - Lũng Cú - Đồng Văn",
+    "Ngày 3: Đồng Văn - Mã Pí Lèng",
+    "Ngày 4: Hà Giang - Hà Nội"
+  ],
+  "giá": "3.990.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79f4067b0809ff5d9ca4e"
+  },
+  "tên tour": "Đà Lạt - Thác Dambri - Vườn Châu Âu - Mongo Land - Samten Hills - Trải nghiệm đường trượt phao khô sắc màu & khám phá công nghệ làm rượu vang",
+  "lịch trình": [
+    "Ngày 1: TP. HCM - Thác Dambri - Đà Lạt               ",
+    "Ngày 2: Đà Lạt - Euro Garden -  Hầm Vang Đà Lạt - Mongo Land          ",
+    "Ngày 3: Đà Lạt -  Langbiang - Chinh phục nóc nhà Tây Nguyên",
+    "Ngày 4: Đà Lạt - Samten Hills - Chiêm ngưỡng Đại Bảo Tháp Kinh Luân - TP. HCM"
+  ],
+  "giá": "3.790.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79f5e67b0809ff5d9ca50"
+  },
+  "tên tour": "Buôn Ma Thuột – Pleiku – Măng Đen: Thác Dray Nur – Cầu Treo Kon Klor – Thác Pa Sỹ  – Bảo Tàng Thế Giới Cà Phê",
+  "lịch trình": [
+    "Ngày 1: NHA TRANG – BUÔN MÊ THUỘT – THÁC DRAY NUR – BẢO TÀNG CÀ PHÊ: 02 BỮA (ĂN TRƯA, TỐI)",
+    "Ngày 2: BUÔN MA THUỘT - PLEIKU – MĂNG ĐEN: 03 BỮA (ĂN SÁNG, TRƯA, TỐI)",
+    "Ngày 3: MĂNG ĐEN - PLEIKU: 3 BỮA (ĂN SÁNG, TRƯA, TỐI)",
+    "Ngày 4: PLEIKU – CHÙA MINH THÀNH -  NHA TRANG: 2 BỮA (ĂN SÁNG, TRƯA)"
+  ],
+  "giá": "5.190.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79f8067b0809ff5d9ca52"
+  },
+  "tên tour": "Caravan Chinh phục thác Dray Nur - Buôn Đôn Khám phá hành trình ''Tìm về hương vị cà phê'' - Trải nghiệm ''Văn minh cà phê thiền''",
+  "lịch trình": [
+    "Ngày 1: Thành phố Hồ Chí Minh - Buôn Ma Thuột (10/3/2025)",
+    "Ngày 2: Buôn Ma Thuột - Dray Nur - Buôn Ma Thuột (11/3/2025)",
+    "Ngày 3: Buôn Đôn - Hội voi Buôn Đôn - Hành trình tìm về hương vị cà phê (12/03/2025)",
+    "Ngày 4: Buôn Ma Thuột - Bảo tàng Thế giới Cà phê - Thành phố Hồ Chí Minh (13/03/2025)"
+  ],
+  "giá": "7.550.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79f9f67b0809ff5d9ca54"
+  },
+  "tên tour": "Mộc Châu - Sơn La - Điện Biên",
+  "lịch trình": [
+    "Ngày 1: Hà Nội – Sơn La",
+    "Ngày 2: Sơn La - Điện Biên\t",
+    "Ngày 3: Điện Biên – Mộc Châu",
+    "Ngày 4: Mộc Châu - Hà Nội"
+  ],
+  "giá": "4.390.000 ₫ / Khách"
+},
+{
+  "_id": {
+    "$oid": "68b79fbf67b0809ff5d9ca56"
+  },
+  "tên tour": "Phan Thiết - Đồi Cát Trinh Nữ - Làng Chài Xưa ",
+  "lịch trình": [
+    "Ngày 1: TP. Hồ Chí Minh - Mũi Né ",
+    "Ngày 2: Mũi Né - Bàu Trắng - Mango Beach ",
+    "Ngày 3: Mũi Né – Làng Chài Xưa – TP. Hồ Chí Minh"
+  ],
+  "giá": "3.590.000 ₫ / Khách"
+}]

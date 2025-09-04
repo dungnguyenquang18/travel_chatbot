@@ -8,15 +8,15 @@ Chatbot multiagent tư vấn tour du lịch, sử dụng LangGraph, LangChain, G
 
 ```
 travel_chatbot/
-├── main.py
-├── agents.py
-├── tools.py
-├── prompts.py
-├── config.py
-├── db/
-│   └── tours.db
-├── requirements.txt
-└── README.md
+├── crawl_data/                   # Thư mục crawl data
+│   └── crawl.py          # File crawl data rồi chuyển sang mongodb.
+├── main.py               # File chính: Xây dựng graph LangGraph, kết nối agents/tools, chạy chatbot.
+├── agents.py             # Định nghĩa 3 agents: supervisor, sql_agent, search_agent.
+├── tools.py              # Định nghĩa tools: sql_query_tool (truy vấn DB), location_search_tool (tìm info địa danh).
+├── prompts.py            # Chứa prompt templates cho từng agent.
+├── config.py             # Lưu cấu hình: API key Groq, DB path, v.v.
+├── requirements.txt      # Danh sách dependencies.
+└── README.md   
 ```
 
 ## Hướng dẫn triển khai
